@@ -1,1 +1,1 @@
-# These are all the practice codes of c++ from freeCodeCamp yt channel taught by Giraffe Academy.
+# These are all my practice codes of c++ tutorial taught by Giraffe Academy on freeCodeCamp YT channel
